@@ -3,4 +3,4 @@
 
 블루프린트 기반
 
-슬라이더 블루프린트 참고하세요~!
+Object_move/Content/Slider.uasset 블루프린트 참고하세요~!
